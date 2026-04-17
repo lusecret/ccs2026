@@ -7,7 +7,7 @@ code used to benchmark protocol for CCS2026 submission titled: "Efficient Transp
 3.	Use cargo bench command to run benchmark testing
    
 ##Benchmarking Options
-1.	Go to file: benches/poly_eval_bench.rs
+1.	Go to file: 26-poly_eval/benches/poly_eval_bench.rs
    
 3.	Uncomment the section if you want to benchmark (prove or verify)
 targets = poly_eval_prove_benchmark
