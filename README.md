@@ -2,11 +2,13 @@
 code used to benchmark protocol for CCS2026 submission titled: "Efficient Transparent Polynomial Commitment Scheme Evaluated with Unknown Constraint"
 
 ##Quick Start
+
 1.	Download rust
    
 3.	Use cargo bench command to run benchmark testing
    
 ##Benchmarking Options
+
 1.	Go to file: 26-poly_eval/benches/poly_eval_bench.rs
    
 3.	Uncomment the section if you want to benchmark (prove or verify)
